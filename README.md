@@ -74,6 +74,7 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________
 
 #### 8. Finalmente, na pasta onde estão os arquivos será gerado um novo arquivo com o nome que foi escolhido na compilação. No exemplo da imagem a seguir, foi compilado o arquivo *Arvore_binaria_busca.c* com o nome de *arvore_compilada* , código usado ```gcc Arvore_binaria_busca.c -o arvore_compilada``` . Só clicar no executável e o programa irá abrir!!!
+![Tutorialebb](https://user-images.githubusercontent.com/46981155/90324395-c7bc5480-df44-11ea-81b5-c775ccc87ad9.PNG)
 
 
 

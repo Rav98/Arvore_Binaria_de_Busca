@@ -33,6 +33,10 @@
     ```
     ./Nome_para_o_executavel_compilado
     ```
+    
+- ### Sistema operacional MAC OS
+Para o sistema da Apple eu aconselho a leitura de um tutorial escrito pelo Vinicius Paes: [Clique aqui para acessar o tutorial](https://viniciuspaes.com/mac-osx/tutorial-instalar-compilador-c-mac-osx/)
+    
 - ### Sistema operacional Windows
 Para instalar no Microsoft Windows é preciso instalar o programa MinGW.
 **Site do Programa**: http://www.mingw.org/
